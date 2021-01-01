@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/eliasbobadilla" target="blank"><img src="https://img.shields.io/twitter/follow/eliasbobadilla?logo=twitter&style=for-the-badge" alt="eliasbobadilla" /></a> </p>	
 
- 🔭 I’m currently working on [Verigeo](https://verigeo.pe/)
+ - 🔭 I’m currently working on [Verigeo](https://verigeo.pe/)
 
 - 🌱 I’m currently learning **Python**
 
