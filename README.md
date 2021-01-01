@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **javascript frameworks, net core, anime**
+- 💬 Ask me about **javascript frameworks, net core or anime**
 
 - 📫 How to reach me **elias.bobadilla@gmail.com**
 
