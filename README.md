@@ -5,6 +5,7 @@
                     .greeting {
                         font-weight: bold;
                         font-size: 10px;
+                        text-decoration: underline;
                     }
                 </style>
                 <h2 class="greeting">Hello, my name is Elías Bobadilla</h2>
