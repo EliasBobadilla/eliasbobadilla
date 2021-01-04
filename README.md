@@ -1,17 +1,4 @@
-<svg fill="none" viewBox="0 0 120 120" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
-        <foreignObject width="100%" height="100%">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <style>
-                    .greeting {
-                        font-weight: bold;
-                        font-size: 10px;
-                        text-decoration: underline;
-                    }
-                </style>
-                <h2 class="greeting">Hello, my name is Elías Bobadilla</h2>
-            </div>
-        </foreignObject>
-    </svg>
+![](./profile.svg)
 
 <!-- <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
     Hi, I'm Elias Bobadilla</h1>
