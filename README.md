@@ -17,7 +17,7 @@
             I love automating tasks to make life easier.
         </li>
         <li>
-            Ask me about javascript, .NET Core or anime.
+            Ask me about JavaScript, .NET Core or anime.
         </li>
     </ul>
     <div>
