@@ -1,5 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" shape-rendering="geometricPrecision"
-     text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd">
-    <path d="M119066 107135h65865v33765l952 2c9173-16456 31602-33765 65046-33765 69550-2 82413 43280 82413 99584v114694l-68689 2V219745c0-24237-504-55437-35716-55437-35765 0-41245 26383-41245 53672v103438h-68626V107137zM71447 47613c0 19716-16000 35715-35716 35715S9 67328 9 47613c0-19716 16006-35716 35722-35716s35716 16000 35716 35716zM9 107135h71438v214281H9V107135z"
-          fill="#0077b5"/>
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="34" width="34" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="_x34__stroke">
+   <g stroke="null" id="LinkedIn">
+    <rect stroke="null" x="1" y="1" id="svg_1" width="29.75" height="29.75" fill-rule="evenodd" fill="none" clip-rule="evenodd"/>
+    <path stroke="null" id="LinkedIn_1_" fill-rule="evenodd" fill="#007EBB" d="m1.75049,11.02505l5.79846,0l0,18.37272l-5.79846,0l0,-18.37272zm2.75141,-2.29796l-0.04207,0c-2.099,0 -3.45983,-1.40453 -3.45983,-3.18488c0,-1.81498 1.40104,-3.18999 3.54211,-3.18999c2.13921,0 3.45472,1.37152 3.49655,3.18488c0,1.78012 -1.35734,3.18999 -3.53676,3.18999zm26.2481,20.67067l-6.57521,0l0,-9.50768c0,-2.48854 -1.02847,-4.18754 -3.29016,-4.18754c-1.72992,0 -2.69191,1.14654 -3.13979,2.25124c-0.16781,0.39651 -0.14178,0.94898 -0.14178,1.50145l0,9.94231l-6.51386,0c0,0 0.0839,-16.84175 0,-18.37272l6.51386,0l0,2.88343c0.38489,-1.26066 2.46623,-3.06007 5.788,-3.06007c4.12107,0 7.35871,2.64264 7.35871,8.33349l0,10.2161l0.00023,0z" clip-rule="evenodd"/>
+   </g>
+  </g>
+ </g>
 </svg>
