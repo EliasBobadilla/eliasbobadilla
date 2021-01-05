@@ -29,17 +29,17 @@
     
 <footer>
     <h2>Connect with me</h2>
-    <p align="center">
+    <p>
         <a href="https://www.linkedin.com/in/eliasbobadilla">
-            <img title="LinkedIn" src="./assets/linkedin.svg"/>
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://twitter.com/eliasbobadillav">
-            <img title="Twitter" src="./assets/twitter.svg"/>
+            <img title="linkedIn" src="./assets/linkedin.svg"/>
         </a>
         &nbsp;&nbsp;
         <a href="mailto: elias.bobadilla@gmail.com">
-            <img title="Twitter" src="./assets/gmail.svg"/>
+            <img title="twitter" src="./assets/gmail.svg"/>
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://twitter.com/eliasbobadillav">
+            <img title="gmail" src="./assets/twitter.svg"/>
         </a>
     </p>
 </footer>
