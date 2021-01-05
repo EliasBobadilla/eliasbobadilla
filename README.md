@@ -31,7 +31,7 @@
     <h2>Connect with me</h2>
     <p align="center">
         <a href="https://www.linkedin.com/in/eliasbobadilla">
-            <img title="LinkedIn" src="./linkedin.svg"/>
+            <img title="LinkedIn" src="./assets/linkedin.svg"/>
         </a>
         &nbsp;&nbsp;
         <a href="https://twitter.com/eliasbobadillav">
